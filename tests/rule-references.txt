@@ -4113,3 +4113,13 @@ https://twitter.com/th3_protoCOL/status/1480621526764322817
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
 https://gtfobins.github.io/gtfobins/nawk/#shell
+https://docs.github.com/en/enterprise-cloud@latest/admin/monitoring-activity-in-your-enterprise/reviewing-audit-logs-for-your-enterprise/audit-log-events-for-your-enterprise#migration
+https://learn.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_core-iexecutecommand
+https://www.softperfect.com/products/networkscanner/
+https://ngrok.com/blog-post/new-ngrok-domains
+https://web.archive.org/web/20230929023836/http://powershellhelp.space/commands/set-netfirewallrule-psv5.php
+https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/fsutil-behavior
+https://docs.aws.amazon.com/IAM/latest/APIReference/API_DeleteSAMLProvider.html
+https://web.archive.org/web/20231015205935/https://githubmemory.com/repo/FunctFan/JNDIExploit
+https://www.ihteam.net/advisory/terramaster-tos-multiple-vulnerabilities/
+https://strontic.github.io/xcyclopedia/library/vbc.exe-A731372E6F6978CE25617AE01B143351.html
