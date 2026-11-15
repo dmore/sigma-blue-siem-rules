@@ -4113,3 +4113,13 @@ https://twitter.com/th3_protoCOL/status/1480621526764322817
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
 https://gtfobins.github.io/gtfobins/nawk/#shell
+https://www.dsinternals.com/en/dpapi-backup-key-theft-auditing/
+https://github.com/pr0xylife/Pikabot/blob/fc58126127adf0f65e78f4eec59675523f48f086/Pikabot_22.12.2023.txt
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-delete-systemstatebackup
+https://x.com/_st0pp3r_/status/1742203752361128162?s=20
+https://www.giac.org/paper/gcih/266/review-ftp-protocol-cyber-defense-initiative/102802
+https://rapid7.com/blog/post/2019/02/19/stack-based-buffer-overflow-attacks-what-you-need-to-know/
+https://github.com/splunk/security_content/blob/88d689fe8a055d8284337b9fad5d9152b42043db/detections/endpoint/petitpotam_suspicious_kerberos_tgt_request.yml
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-5038
+https://www.hexacorn.com/blog/2018/09/02/beyond-good-ol-run-key-part-86/
+https://learn.microsoft.com/en-us/windows/win32/vss/vshadow-tool-and-sample
